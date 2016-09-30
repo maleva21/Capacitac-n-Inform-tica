@@ -1,6 +1,6 @@
 # Capacitacion informática
 
-Programas para entender y manejar Python 
+Programas creados por alumnos del Centro Eduvativo Patria para la clase de capacitación.
 
 ## Getting Started
 
@@ -77,8 +77,7 @@ Valencia Malena y Olvera Carolina
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+GPL3 
 
 ## Acknowledgments
 
