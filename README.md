@@ -1,4 +1,4 @@
-# Capacitacion informática
+# Capacitación informática
 
 Programas creados por alumnos del Centro Eduvativo Patria para la clase de capacitación.
 
