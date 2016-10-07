@@ -4,7 +4,7 @@
 import time
 
 
-password="cangrejo"
+password="hola"
 correcto=0
 intentos=1
 
